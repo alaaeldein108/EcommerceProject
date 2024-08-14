@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\FCI\\.Net\\EcommerceProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C337225-1849-4C4B-B763-07C80BDF4DA7}|Data\\Data.csproj|e:\\fci\\.net\\ecommerceproject\\data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C337225-1849-4C4B-B763-07C80BDF4DA7}|Data\\Data.csproj|solutionrelative:data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C337225-1849-4C4B-B763-07C80BDF4DA7}|Data\\Data.csproj|e:\\fci\\.net\\ecommerceproject\\data\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C337225-1849-4C4B-B763-07C80BDF4DA7}|Data\\Data.csproj|solutionrelative:data\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C337225-1849-4C4B-B763-07C80BDF4DA7}|Data\\Data.csproj|e:\\fci\\.net\\ecommerceproject\\data\\entities\\orderentities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C337225-1849-4C4B-B763-07C80BDF4DA7}|Data\\Data.csproj|solutionrelative:data\\entities\\orderentities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE5845C-5900-40C4-BA0C-CC02ABE227B5}|EcommerceProject\\EcommerceProject.csproj|e:\\fci\\.net\\ecommerceproject\\ecommerceproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE5845C-5900-40C4-BA0C-CC02ABE227B5}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 320,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\EcommerceProject\\Data\\Configurations\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\OrderConfiguration.cs",
+              "ToolTip": "E:\\FCI\\.Net\\EcommerceProject\\Data\\Configurations\\OrderConfiguration.cs",
+              "RelativeToolTip": "Data\\Configurations\\OrderConfiguration.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T20:30:06.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\EcommerceProject\\Data\\Entities\\OrderEntities\\Order.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\OrderEntities\\Order.cs",
+              "ToolTip": "E:\\FCI\\.Net\\EcommerceProject\\Data\\Entities\\OrderEntities\\Order.cs",
+              "RelativeToolTip": "Data\\Entities\\OrderEntities\\Order.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAUwBYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:58:35.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\EcommerceProject\\Data\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\Context\\AppDbContext.cs",
+              "ToolTip": "E:\\FCI\\.Net\\EcommerceProject\\Data\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAABwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:41:33.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\EcommerceProject\\EcommerceProject\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Program.cs",
+              "ToolTip": "E:\\FCI\\.Net\\EcommerceProject\\EcommerceProject\\Program.cs",
+              "RelativeToolTip": "EcommerceProject\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T17:47:38.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 80,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

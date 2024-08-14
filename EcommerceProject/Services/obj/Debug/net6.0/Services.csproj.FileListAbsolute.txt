@@ -1,0 +1,17 @@
+E:\FCI\.Net\EcommerceProject\Services\bin\Debug\net6.0\Services.deps.json
+E:\FCI\.Net\EcommerceProject\Services\bin\Debug\net6.0\Services.dll
+E:\FCI\.Net\EcommerceProject\Services\bin\Debug\net6.0\Services.pdb
+E:\FCI\.Net\EcommerceProject\Services\bin\Debug\net6.0\Data.dll
+E:\FCI\.Net\EcommerceProject\Services\bin\Debug\net6.0\Repositories.dll
+E:\FCI\.Net\EcommerceProject\Services\bin\Debug\net6.0\Repositories.pdb
+E:\FCI\.Net\EcommerceProject\Services\bin\Debug\net6.0\Data.pdb
+E:\FCI\.Net\EcommerceProject\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+E:\FCI\.Net\EcommerceProject\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\FCI\.Net\EcommerceProject\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+E:\FCI\.Net\EcommerceProject\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+E:\FCI\.Net\EcommerceProject\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+E:\FCI\.Net\EcommerceProject\Services\obj\Debug\net6.0\Services.csproj.Up2Date
+E:\FCI\.Net\EcommerceProject\Services\obj\Debug\net6.0\Services.dll
+E:\FCI\.Net\EcommerceProject\Services\obj\Debug\net6.0\refint\Services.dll
+E:\FCI\.Net\EcommerceProject\Services\obj\Debug\net6.0\Services.pdb
+E:\FCI\.Net\EcommerceProject\Services\obj\Debug\net6.0\ref\Services.dll
